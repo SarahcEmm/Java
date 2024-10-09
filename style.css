@@ -1,0 +1,74 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Pacifico&display=swap');
+
+
+* {
+    margin: 0;
+
+}
+body{
+    font-family: Comfortaa, sans-serif;
+}
+.navbar {
+    
+    margin: 50px;
+}
+.colortext {
+    text-align: center;
+    font-size: 300%;
+}
+.colorbtn {
+    margin: auto;
+    display: flex;
+    display: block;
+}
+.paltext {
+    text-align: center;
+    font-size: 300%;
+}
+.palin {
+    margin: auto;
+    display: flex;
+    display: block;
+}
+.rantext {
+    text-align: center;
+    font-size: 300%;
+}
+.btntex {
+    margin: auto;
+    display: flex;
+    display: block;
+}
+.rantext1 {
+    text-align: center;
+    font-size: 150%;
+    padding: 20px;
+}
+.stoptext {
+    text-align: center;
+    font-size: 300%;
+}
+.stopclk {
+    text-align: center;
+    font-size: 300%;
+}
+.stopclk1 {
+    align-items: center;
+}
+
+#orange{
+    background-color: orange;
+}
+#red {
+    background-color: red;
+}
+#yellow {
+    background-color: yellow;
+}
+button {
+    border-radius: 5px;
+    width: 100px;
+    height:40px;
+    margin: 5px;
+}
