@@ -81,3 +81,15 @@ button {
     text-align: center;
     padding: 20px;
 }
+.home-color {
+    background-color: khaki;
+}
+.pal-color {
+    background-color: aquamarine;
+}
+.quote-color {
+    background-color: lightblue;
+}
+.stop-color {
+    background-color: mistyrose;
+}
