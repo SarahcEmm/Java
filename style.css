@@ -72,3 +72,12 @@ button {
     height:40px;
     margin: 5px;
 }
+.front {
+    text-align: center;
+    font-size: 300%;
+
+}
+.frontp {
+    text-align: center;
+    padding: 20px;
+}
