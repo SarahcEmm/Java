@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Pacifico&display=swap');
+body {
+    background-color: white;
+    color: black;
+font-family: Comfortaa, sans-serif;
+}
+.container {
+    text-align: center;
+    padding: 50px;
+}
+h1 {
+    padding: 20px;
+}
+h2 {
+    padding: 20px;
+    color: white;
+}
+body.dark-mode {
+    background-color: black;
+    color: white;
+}
+button {
+    margin: 5px;
+}
