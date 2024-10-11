@@ -36,7 +36,7 @@ function drawBasket() {
 
 function drawSnails() {
     snails.forEach((snail) => {
-        ctx.drawImage(snailImage, snail.x, snail.y, 30, 20); // Draw the snail image
+        ctx.drawImage(snailImage, snail.x, snail.y, 60, 40); // Draw the snail image
         snail.y += 3; // Move snail down
     });
 }
